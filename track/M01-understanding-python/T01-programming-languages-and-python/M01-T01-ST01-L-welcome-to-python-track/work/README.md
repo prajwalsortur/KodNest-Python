@@ -2,26 +2,25 @@
 
 ## My Name
 
-Write your name.
+PRAJWAL SORTU
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
-
+many things such as pseudocodes, logic building and about APIs
 ## Why I Selected Python
 
-Write your reason in your own words.
+i have been working with python more then year 3 years so i choose python
 
 ## My Career Goal
 
-Write the role you want to achieve.
+AI or ML engineer 
 
 ## What I Understood Today
 
-Complete these sentences:
+Complete these sentences: about Git and version control and difference between python language and programming
 
-Programming means:
+Programming means: used to build website and work on logics 
 
-Python is:
+Python is:language 
 
-In this track, I will learn:
+In this track, I will learn: many thing 
