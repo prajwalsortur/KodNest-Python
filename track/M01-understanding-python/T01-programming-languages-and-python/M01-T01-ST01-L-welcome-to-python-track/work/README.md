@@ -2,11 +2,11 @@
 
 ## My Name
 
-PRAJWAL SORTU
+PRAJWAL SORTUR
 
 ## What I Learned in Foundation Month
 
-many things such as pseudocodes, logic building and about APIs
+all fundamentals 
 ## Why I Selected Python
 
 i have been working with python more then year 3 years so i choose python
