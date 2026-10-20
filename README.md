@@ -1,2 +1,1 @@
-PRAJWAL SORTUR 
-AI/ML engineer 
+
